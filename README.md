@@ -16,3 +16,4 @@ python saturnfetch.py
 
 
 > En caso de querer cambiar la imagen por defecto, crear un nuevo archivo.txt y buscar en el codigo de saturnfetch.py <archivo_txt = "/home/usuario/saturno.txt"> y remplazar la direccion al nuevo archivo
+<img width="934" height="527" alt="saturnfetch_ejemplo" src="https://github.com/user-attachments/assets/7f67452f-5020-435e-9f30-36ae6f23ea16" />
