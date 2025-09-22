@@ -15,4 +15,4 @@ Ejecutar en la terminal
 python saturnfetch.py
 
 
-> En caso de querer cambiar la imagen por defecto, crear un nuevo archivo.txt y buscar en el codigo de saturnfetch.py <archivo_txt = "/home/usuario/saturno.txt"> y remplasar la direccion al nuevo archivo
+> En caso de querer cambiar la imagen por defecto, crear un nuevo archivo.txt y buscar en el codigo de saturnfetch.py <archivo_txt = "/home/usuario/saturno.txt"> y remplazar la direccion al nuevo archivo
